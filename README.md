@@ -1,5 +1,5 @@
 1. Download files
-2. Create doldersCustom/Tom/
+2. Create folders Custom/Tom/
 Copy files
 
 add init.sqf
