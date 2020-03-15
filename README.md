@@ -1,3 +1,7 @@
+1. Download files
+2. Create doldersCustom/Tom
+Copy files
+
 add init.sqf
 
 if (isServer) then {
